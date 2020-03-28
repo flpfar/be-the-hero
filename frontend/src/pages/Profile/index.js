@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import { FiPower } from 'react-icons/fi';
-import { FiTrash2 } from 'react-icons/fi'
+import { FiTrash2 } from 'react-icons/fi';
 
 
 import './styles.css';
@@ -19,7 +19,7 @@ export default function Profile() {
       </header>
 
       <h1>Casos Cadastrados</h1>
-      
+
       <ul>
         <li>
           <strong>CASO: </strong>
