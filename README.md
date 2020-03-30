@@ -1,6 +1,6 @@
 # Be The Hero - Embrace a cause!
 
-> A different way to connect NGOs (Non-Governmental Organizations) that need help, with people who want to help with .
+> A different way to connect NGOs (Non-Governmental Organizations) that need help with people who want to help.
 
 ![screenshot](screenshots/screenshotweb.png)
 ![screenshot](screenshots/screenshotmobile.png)
@@ -53,4 +53,4 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- This project was created following instructions from [RocketSeat]{https://rocketseat.com.br/} as part of the Omnistack Week 11th edition.
+- This project was created following instructions from [RocketSeat](https://rocketseat.com.br/) as part of the Omnistack Week 11th edition.
