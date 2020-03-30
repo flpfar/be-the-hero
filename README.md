@@ -1,4 +1,4 @@
-# Be The Hero - Help a cause!
+# Be The Hero - Embrace a cause!
 
 > A different way to connect NGOs (Non-Governmental Organizations) that need help, with people who want to help with .
 
